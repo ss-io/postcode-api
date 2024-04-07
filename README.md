@@ -18,7 +18,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-API endpoint located in [http://localhost:3000/app/search/by-postcode]http://localhost:3000/app/search/by-postcode
+API endpoint located in [http://localhost:3000/app/search/by-postcode](http://localhost:3000/app/search/by-postcode)
 
 ```bash
 GET: search/by-postcode/:postcode
