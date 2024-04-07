@@ -74,7 +74,7 @@ export default function PostcodeWidget() {
                 {
                     loading && (
                         <div className={style.postcode_widget__info}>
-                            'Loading postcode info ...'
+                            Loading postcode info ...
                         </div>
                     )
                 }
