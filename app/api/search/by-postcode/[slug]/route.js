@@ -16,6 +16,7 @@ export async function GET(request, context) {
 
         // Get the query parameter
         const param = context.params.slug;
+
         // Get postcode spliting by comma ,
         const postcodes = param.split(',');
 
